@@ -1,0 +1,12 @@
+{
+  "name": "{{ cookiecutter.project_slug }}",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "Typescript"
+  ],
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
